@@ -1,12 +1,23 @@
 .flashy {
   color: red;
   font-style: italic;
+  text-align: center;
 }
 
 .best {
-
+  font-size: larger;
+  font-style: oblique;
 }
 
 body {
-  background-color: rgb(133, 133, 252);
+  background-color: rgb(194, 194, 250);
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+}
+
+.images {
+  float: left;
 }
